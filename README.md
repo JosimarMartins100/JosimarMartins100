@@ -1,5 +1,9 @@
 
 
+### Olá, aqui é o Josimar, estudante de programação e apaixonado por tecnologia !!!
+
+
+
 ![Profile views](https://gpvc.arturio.dev/JosimarMartins100)
 
 <div>
